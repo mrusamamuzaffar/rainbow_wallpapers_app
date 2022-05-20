@@ -65,10 +65,4 @@ https://www.pexels.com/api/documentation/
   - dio: ^4.0.1
   - flutter_native_splash: ^1.3.2
   - flutter_launcher_icons: ^0.9.2
-## 🚀 About Me
-I'm a Flutter developer.I have a keen interest in opensource.I’m currently learning Flutter,Python,CP.
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-mabud-alam-444a87133/)
 
