@@ -5,19 +5,34 @@ RainBow brings an exclusive wallpapers & setups straight to your Android device.
 My main goal is to create an unimaginable self-sustainable experience where people can share their walls and , and everyone can like, download, and apply them.
 
 
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780872/WhatsApp_Image_2021-12-06_at_2.15.10_PM.jpg" >
+</p>
 
-## Screenshots
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780872/WhatsApp_Image_2021-12-06_at_2.15.09_PM.jpg" >
+</p>
 
-![App Screenshot](https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780872/WhatsApp_Image_2021-12-06_at_2.15.10_PM.jpg)
-![App Screenshot](https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780872/WhatsApp_Image_2021-12-06_at_2.15.09_PM.jpg)
-![App Screenshot](https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780872/WhatsApp_Image_2021-12-06_at_2.15.10_PM_1.jpg)
-![App Screenshot](https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780871/WhatsApp_Image_2021-12-06_at_2.15.08_PM.jpg)
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780872/WhatsApp_Image_2021-12-06_at_2.15.10_PM_1.jpg" >
+</p>
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://res.cloudinary.com/dc0tfxkph/image/upload/v1638780871/WhatsApp_Image_2021-12-06_at_2.15.08_PM.jpg" >
+</p>
 
 ## API Reference
 
-#### Api Used
-
-```http
 https://www.pexels.com/api/documentation/
-```
-
