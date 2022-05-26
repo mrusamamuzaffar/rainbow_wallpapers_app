@@ -1,5 +1,5 @@
 
-# RainBow-flutter
+# RainBow wallpaper app - flutter
 RainBow brings an exclusive wallpapers & setups straight to your Android device. With unlimited downloads , you can be sure to never miss the best wallpapers.
 
 My main goal is to create an unimaginable self-sustainable experience where people can share their walls and , and everyone can like, download, and apply them.
