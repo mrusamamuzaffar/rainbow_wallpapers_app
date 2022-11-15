@@ -6,7 +6,7 @@ My main goal is to create an unimaginable self-sustainable experience where peop
 
 ✔️ Sound NullSafety
 
-## Screenshot
+## Screenshots
 
 
 <p align="center">
